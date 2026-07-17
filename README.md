@@ -54,30 +54,30 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-sigma-ashy.vercel.app/api?username=Hashir-Khan22&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-sigma-ashy.vercel.app/api/top-langs/?username=Hashir-Khan22&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Hashir-Khan22/Hashir-Khan22/output/github-snake-dark.svg)
 
 ---
 
-### 🎧 Currently Vibing To
+### 🔥 Streak Stats
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Hashir-Khan22&theme=tokyonight&hide_border=true" height="150" />
+</div>
 
-<!-- Replace with your Spotify User ID -->
-<a href="">
+---
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=2)
+### 🏆 Trophies
 
-</a>
-
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Hashir-Khan22&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -86,7 +86,7 @@
 
 <p align="center">
 
-<a href="" target="_blank">
+<a href="https://hashir-ahmed-khan.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
